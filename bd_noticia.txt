@@ -1,0 +1,12 @@
+CREATE DATABASE bd_noticia;
+
+USE bd_noticia;
+
+CREATE TABLE tb_noticia(
+    
+    idNoticia int not null AUTO_INCREMENT PRIMARY KEY,
+    titulo varchar(100) not null,
+    descricao varchar(400) not null,
+    imagem varchar(255) not null
+    
+);
