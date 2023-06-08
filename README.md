@@ -1,5 +1,5 @@
 
-###📰 NoticiaCRUD 🖋️
+### 📰 NoticiaCRUD 🖋️
 
 Este projeto, desenvolvido por Kauê Henrique Domingues, tem como objetivo fornecer uma solução completa para o gerenciamento de notícias. Com ele, você poderá criar, ler, atualizar e excluir notícias de forma simples e eficiente. 💪
 
